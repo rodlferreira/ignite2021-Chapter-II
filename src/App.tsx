@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { GlobalStyles } from "./assets/styles/global";
+import { GlobalStyles } from "./styles/global";
 import { Dashboard } from "./components/Dashboard";
 import { Header } from "./components/Header";
 
